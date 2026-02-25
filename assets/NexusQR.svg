@@ -1,0 +1,31 @@
+<svg width="512" height="512" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Fondo sutil con esquinas redondeadas -->
+<rect x="5" y="5" width="90" height="90" rx="20" fill="#6366F1" fill-opacity="0.05"/>
+
+<!-- Marcos de las esquinas (Estilo Escáner QR) -->
+
+<g stroke="#6366F1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<!-- Esquina Superior Izquierda -->
+<path d="M35 15H20C17.2386 15 15 17.2386 15 20V35" />
+<!-- Esquina Superior Derecha -->
+<path d="M65 15H80C82.7614 15 85 17.2386 85 20V35" />
+<!-- Esquina Inferior Izquierda -->
+<path d="M35 85H20C17.2386 85 15 82.7614 15 80V65" />
+<!-- Esquina Inferior Derecha -->
+<path d="M65 85H80C82.7614 85 85 82.7614 85 80V65" />
+</g>
+
+<!-- El Rayo (Firma Jai / Energía del Nexus) -->
+
+<path
+d="M55 25L35 55H48L42 75L62 45H49L55 25Z"
+fill="#6366F1"
+stroke="#6366F1"
+stroke-width="2"
+stroke-linejoin="round"
+/>
+
+<!-- Punto de conexión opcional (Estilo Ingeniería) -->
+
+<circle cx="50" cy="50" r="2" fill="#6366F1" fill-opacity="0.3"/>
+</svg>
