@@ -6,7 +6,6 @@
 
 **QR Nexus** is a premium, high-performance QR code scanner and generator built with React Native and Expo. It features a modern **Bento UI** design, smooth animations, and advanced features focused on user experience and productivity.
 
-![QR Nexus Dashboard](./assets/NexusQR.png) <!-- Aquí podrías poner un screenshot real luego -->
 
 ## ✨ Key Features
 
